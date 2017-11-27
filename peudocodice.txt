@@ -1,0 +1,38 @@
+start 
+     numeri §= leggi array
+     for (indice1 = 0 finoa celle -1)
+     start
+          for (indice2 = indice1 +1 fino a celle -1)
+          start
+               if numeri(start2) < numeri(start)
+               start
+               scambio i 2 valori
+               end     
+          end 
+     end
+fine
+--------------------------------------------
+start 
+     numeri = leggi array
+     start =0 
+     while (indice1 < numero celle)
+     start
+          indice2 =indice1 + 1 
+           while (indice2 < numero celle)
+           start
+                if numeri(indice2) < numeri(indice1)
+               start 
+               scambio valori
+               end
+            indice2=indice2+1
+            end
+    indice1=indice1+1
+fine
+
+        
+
+
+     end
+          
+     
+fine
